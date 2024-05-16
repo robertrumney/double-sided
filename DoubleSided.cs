@@ -1,4 +1,4 @@
-Shader "Custom/DoubleSidedAutodeskInteractive"
+Shader "Custom/DoubleSided"
 {
     Properties
     {
